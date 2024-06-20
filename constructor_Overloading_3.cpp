@@ -20,7 +20,7 @@ public:
     }
     student(student &studentObj)
     {
-        name = name_a;
+        //name = name_a;
         id = studentObj.id;
         age = studentObj.age;
         department = studentObj.department;
